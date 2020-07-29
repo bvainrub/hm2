@@ -15,10 +15,9 @@ namespace IntroUI
             System.Console.WriteLine( $"{p.FirstName} {p.LastName} is my name. "  );
             Console.WriteLine("Hello World!");
             System.Console.WriteLine(p.NameBuilder());
-            
-            
 
-
+            
         }
     }
 }
+

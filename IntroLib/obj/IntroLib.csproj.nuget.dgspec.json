@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj": {}
+    "C:\\temp\\Hm2\\hm2\\IntroLib\\IntroLib.csproj": {}
   },
   "projects": {
-    "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj": {
+    "C:\\temp\\Hm2\\hm2\\IntroLib\\IntroLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj",
+        "projectUniqueName": "C:\\temp\\Hm2\\hm2\\IntroLib\\IntroLib.csproj",
         "projectName": "IntroLib",
-        "projectPath": "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj",
+        "projectPath": "C:\\temp\\Hm2\\hm2\\IntroLib\\IntroLib.csproj",
         "packagesPath": "C:\\Users\\W10P\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\VScodeIntro\\IntroLib\\obj\\",
+        "outputPath": "C:\\temp\\Hm2\\hm2\\IntroLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

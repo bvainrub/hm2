@@ -163,11 +163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\VScodeIntro\\IntroUI\\IntroUI.csproj",
+      "projectUniqueName": "C:\\temp\\Hm2\\hm2\\IntroUI\\IntroUI.csproj",
       "projectName": "IntroUI",
-      "projectPath": "C:\\temp\\VScodeIntro\\IntroUI\\IntroUI.csproj",
+      "projectPath": "C:\\temp\\Hm2\\hm2\\IntroUI\\IntroUI.csproj",
       "packagesPath": "C:\\Users\\W10P\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\VScodeIntro\\IntroUI\\obj\\",
+      "outputPath": "C:\\temp\\Hm2\\hm2\\IntroUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -186,8 +186,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj": {
-              "projectPath": "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj"
+            "C:\\temp\\Hm2\\hm2\\IntroLib\\IntroLib.csproj": {
+              "projectPath": "C:\\temp\\Hm2\\hm2\\IntroLib\\IntroLib.csproj"
             }
           }
         }

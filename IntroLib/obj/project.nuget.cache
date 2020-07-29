@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sKRCmsyCx09mbUJyZB2UewvgEiNos94Yvw2PUGysSYAwqcZ72Oro7CbFaZVZMxAuFBeRt2uKuSaHuqd6Gg/djw==",
+  "dgSpecHash": "sIfqy4M49z7jlzlUwh7vU82OK+Ls1c2UcJiFgtLX/PTw9s04+q1pcVpnojAelrs0vJ7tb/UL/deUrcHbuRmR6g==",
   "success": true,
-  "projectFilePath": "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj",
+  "projectFilePath": "C:\\temp\\Hm2\\hm2\\IntroLib\\IntroLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10P\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

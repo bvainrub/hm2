@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wVx29ehvVAJ7A4FAyLG1eJJwLaUimROQGmEydyyv6AhSvnP0NoowNwfQs4qHARf/WLVP9iJiF2zAjoj88qTI+Q==",
+  "dgSpecHash": "WsCFa07lk7F6hgJxycyzN8yVbJF+I5p7vXvQ+JQvqBXn6Rf+U4iemy2+ZrPFPdGZWhObQLOCFznkRscWXPeWQg==",
   "success": true,
-  "projectFilePath": "C:\\temp\\VScodeIntro\\IntroUI\\IntroUI.csproj",
+  "projectFilePath": "C:\\temp\\Hm2\\hm2\\IntroUI\\IntroUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10P\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\W10P\\.nuget\\packages\\serilog\\2.9.0\\serilog.2.9.0.nupkg.sha512",
