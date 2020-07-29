@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVx29ehvVAJ7A4FAyLG1eJJwLaUimROQGmEydyyv6AhSvnP0NoowNwfQs4qHARf/WLVP9iJiF2zAjoj88qTI+Q==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\VScodeIntro\\IntroUI\\IntroUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\W10P\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\W10P\\.nuget\\packages\\serilog\\2.9.0\\serilog.2.9.0.nupkg.sha512",
+    "C:\\Users\\W10P\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

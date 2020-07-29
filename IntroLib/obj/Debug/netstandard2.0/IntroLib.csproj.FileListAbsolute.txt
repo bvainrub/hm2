@@ -1,0 +1,9 @@
+C:\temp\VScodeIntro\IntroLib\bin\Debug\netstandard2.0\IntroLib.deps.json
+C:\temp\VScodeIntro\IntroLib\bin\Debug\netstandard2.0\IntroLib.dll
+C:\temp\VScodeIntro\IntroLib\bin\Debug\netstandard2.0\IntroLib.pdb
+C:\temp\VScodeIntro\IntroLib\obj\Debug\netstandard2.0\IntroLib.csprojAssemblyReference.cache
+C:\temp\VScodeIntro\IntroLib\obj\Debug\netstandard2.0\IntroLib.AssemblyInfoInputs.cache
+C:\temp\VScodeIntro\IntroLib\obj\Debug\netstandard2.0\IntroLib.AssemblyInfo.cs
+C:\temp\VScodeIntro\IntroLib\obj\Debug\netstandard2.0\IntroLib.csproj.CoreCompileInputs.cache
+C:\temp\VScodeIntro\IntroLib\obj\Debug\netstandard2.0\IntroLib.dll
+C:\temp\VScodeIntro\IntroLib\obj\Debug\netstandard2.0\IntroLib.pdb

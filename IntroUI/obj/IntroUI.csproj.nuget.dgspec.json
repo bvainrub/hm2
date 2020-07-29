@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\temp\\VScodeIntro\\IntroUI\\IntroUI.csproj": {}
+  },
+  "projects": {
+    "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj",
+        "projectName": "IntroLib",
+        "projectPath": "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj",
+        "packagesPath": "C:\\Users\\W10P\\.nuget\\packages\\",
+        "outputPath": "C:\\temp\\VScodeIntro\\IntroLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\W10P\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\temp\\VScodeIntro\\IntroUI\\IntroUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\temp\\VScodeIntro\\IntroUI\\IntroUI.csproj",
+        "projectName": "IntroUI",
+        "projectPath": "C:\\temp\\VScodeIntro\\IntroUI\\IntroUI.csproj",
+        "packagesPath": "C:\\Users\\W10P\\.nuget\\packages\\",
+        "outputPath": "C:\\temp\\VScodeIntro\\IntroUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\W10P\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj": {
+                "projectPath": "C:\\temp\\VScodeIntro\\IntroLib\\IntroLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
