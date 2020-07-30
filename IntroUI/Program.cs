@@ -7,17 +7,24 @@ namespace IntroUI
     {
         static void Main(string[] args)
         {
-            PersonModel p = new PersonModel
+            PersonModel p1 = new PersonModel
             {
                 FirstName = "Timok",
                 LastName = "correy"                
             };
-            System.Console.WriteLine( $"{p.FirstName} {p.LastName} is my name. "  );
-            Console.WriteLine("Hello World!");
-            System.Console.WriteLine(p.NameBuilder());
+            PersonModel p2 = new PersonModel{
 
-            
+                 FirstName ="Anna",
+                LastName = "Frank"
+            };
+            System.Console.WriteLine( $"{p1.FirstName} {p1.LastName} is my name. "  );
+            System.Console.WriteLine(p1.NameBuilder());
+            System.Console.WriteLine($"{p2.FirstName} {p2.LastName} is second name ");
+            System.Console.WriteLine("Hello World");
         }
+
+
+        
     }
 }
 
